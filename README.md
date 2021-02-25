@@ -7,4 +7,4 @@
 
 # `State Machine Diagram`
 
-![alt text](https://github.com/mralfaris/AutoInsuranceDApp/images/FSRAO-InsuranceClaimFinal.png?raw=true)
+![alt text](https://github.com/mralfaris/AutoInsuranceDApp/blob/main/images/FSRAO-InsuranceClaimFinal.png?raw=true)
