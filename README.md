@@ -1,6 +1,7 @@
 # Car Accident Insurance Claim - Decentralized App
 
-**DApp1 - State Machine Lab - 101312754**
+**DApp1 - State Machine Lab**
+**101312754**
 
 ## Requirements
 1. [State Machine Diagram](#state-machine-diagram)
@@ -18,7 +19,7 @@
 
 ### Transition Functions
 
-1. Submit Claim.
+1. Submit New Claim.
 2. Assign to Adjuster.
 3. Determine Claims.
 4. Accept Claim Assessment.
@@ -29,9 +30,9 @@
 
 ### Roles
 
-1. Claim Report.
-2. Adjuster.
-3. Complaint Officer.
-4. Insurance Company.
-5. Payment Processor.
+1. Customer - Claim Reporter.
+2. Adjuster (Insurance Company).
+3. Complaint Officer (Insurance Company).
+4. System (Insurance Company).
+5. Payment Processor (3rd Party).
 6. Insurance Regulator.
