@@ -1,6 +1,6 @@
-# Car Accident Insurance Claim 
+# Car Accident Insurance Claim - Decentralized App
 
-**DApp1 - State Machine Lab - 101312754 **
+** DApp1 - State Machine Lab - 101312754 **
 
 ## Requirements
 1. [State Machine Diagram](#state-machine-diagram)
@@ -43,7 +43,7 @@
 
 
 
-d
+
 
 ### Transition Functions
 
@@ -75,7 +75,7 @@ d
 
 
 
-b
+
 
 ### Roles
 
@@ -106,4 +106,4 @@ b
 
 
 
-a
+
