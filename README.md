@@ -1,6 +1,6 @@
 # Car Accident Insurance Claim 
 
-**DApp1 - State Machine Lab -**
+**DApp1 - State Machine Lab - 101312754 **
 
 ## Requirements
 1. [State Machine Diagram](#state-machine-diagram)
@@ -14,10 +14,96 @@
 
 ### State Data
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
 ### Transition Functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b
 
 ### Roles
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a
