@@ -15,7 +15,25 @@
 
 ### State Data
 
-
+| Field                 | Type                |
+|----------------------	|---------------------|
+| Claim ID              | Number              |
+| Report Name           | String              |
+| Report License Number | String              |
+| Vehicle Plate         | String              |
+| Vehicle Make          | String              |
+| Vehicle Model         | String              |
+| Vehicle Year          | Number              |
+| Accident Location     |                     |
+|   Longtitude          | Number              |
+|   Latitude            | Number              |
+| Claim Status          | String              |
+| Claim Amount          | Number              |
+| Claim Assessed Amount | Number              |
+| Assignee              | String              |
+| Assessed By           | String              |
+| Escalated By          | String              |
+| Last Action Date      | String              |
 
 ### Transition Functions
 
